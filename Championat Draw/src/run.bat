@@ -1,0 +1,8 @@
+java Main.class
+pause
+
+
+
+
+
+
